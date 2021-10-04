@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Course from '../Course/Course';
 
-const Services = () => {
+const Courses = () => {
     const [courses, setCourses] = useState([])
     useEffect(() => {
         fetch('/courseData.json')
@@ -17,4 +17,4 @@ const Services = () => {
     );
 };
 
-export default Services;
+export default Courses;

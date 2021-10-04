@@ -7,7 +7,7 @@ const Footer = () => {
             <div className='col-md-6'>
                 <h1>DevSchool.com</h1>
                 <p>
-                   Location: House 4, Road 3, Progoti Soroni, Dhaka, Bangladesh.
+                   Location: House 4, Road 3, Progoti Soroni, Dhaka, Bangladesh. <br />
                    Email: devschool@gmail.com <br></br>
                    Helpline : 01302-010101
                 </p>   

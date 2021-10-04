@@ -7,7 +7,7 @@ import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
 import Notfound from './Components/Notfound/Notfound';
-import Services from './Components/Services/Services';
+import Courses from './Components/Services/Services';
 
 function App() {
   return (
@@ -24,8 +24,8 @@ function App() {
           <Route exact path='/about'>
               <About />
           </Route>
-          <Route exact path='/services'>
-              <Services />
+          <Route exact path='/courses'>
+              <Courses />
           </Route>
           <Route exact path='/contact'>
               <Contact />
