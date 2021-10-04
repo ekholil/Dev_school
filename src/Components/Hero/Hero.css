@@ -1,0 +1,49 @@
+.hero::before {    
+    content: "";
+    background-image: url('https://i.ibb.co/bsfvv52/bg.jpg');
+    background-size: cover;
+    position: absolute;
+    top: 80px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.60;
+}
+.hero{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.hero h1 {
+    position: relative;
+    color: #ffffff;  
+    font-size: 14rem;
+    line-height: 0.9;
+    text-align: center;
+    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.4);
+  }
+.hero img {
+    filter: brightness(50%);
+}
+.hero h1{
+    color: #fff;
+    font-size: 80px;
+    
+}
+.hero button{
+    border: 3px solid #28B463;
+    color: #fff;
+    background-color: #28B463;
+    padding: 10px 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    position: relative;
+    transition: 1s ease;
+}
+.hero button:hover{
+    color: #28B463;
+    background-color: #fff;
+    
+}

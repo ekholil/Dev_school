@@ -1,0 +1,20 @@
+.about{
+    height: 100vh;
+}
+.about-title{
+    border-bottom: 5px solid #28B463;
+    display: inline-block;
+    font-size: 2rem;
+}
+.content{
+    margin: 20px 60px;
+}
+.content h2{
+    color: #28B463;
+    font-size: 4rem;
+    margin-bottom: 30px;
+    
+}
+.content p{
+    font-size: 2rem;
+}

@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Advanced React",
+      "img": "https://i.ibb.co/fS9vXpr/react.jpg",
+      "instructor": "Kholilur Rahman",
+      "price": 100,
+      "lectures": 30,
+      "duration": "12 Hours",
+      "id" : 1
+    },
+    {
+      "name": "Learn Modern Angular",
+      "img": "https://i.ibb.co/WPm9RBw/angular.png",
+      "instructor": "Ibrahim Kholil",
+      "price": 50,
+      "lectures": 20,
+      "duration": "10 Hours",
+      "id": 2
+    },
+    {
+      "name": "Web apps Development with Vue js",
+      "img": "https://i.ibb.co/9GRJMkf/vue.png",
+      "instructor": "Abdur Rahman",
+      "price": 80,
+      "lectures": 25,
+      "duration": "13 Hours", 
+      "id": 3
+    },
+    {
+      "name": "Master in css",
+      "img": "https://i.ibb.co/QmMygGy/css.jpg",
+      "instructor": "Ariful Islam",
+      "price": 60,
+      "lectures": 22,
+      "duration": "15 Hours", 
+      "id": 4
+    },
+    {
+      "name": "Django Web Framework with Rest Api",
+      "img": "https://i.ibb.co/DCg1wdX/django.jpg",
+      "instructor": "Ahmad Musa",
+      "price": 150,
+      "lectures": 26,
+      "duration": "14 Hours", 
+      "id": 5
+    },
+    {
+      "name": "Backend With Laravel",
+      "img": "https://i.ibb.co/V3fLQCH/laravel.png",
+      "instructor": "Abu Jafor",
+      "price": 45,
+      "lectures": 19,
+      "duration": "16 Hours", 
+      "id": 6
+    },
+    {
+      "name": "Advanced Node JS",
+      "img": "https://i.ibb.co/Fb1yRCG/node.png",
+      "instructor": "Gias Uddin",
+      "price": 140,
+      "lectures": 28,
+      "duration": "19 Hours", 
+      "id": 7
+    },
+    {
+      "name": "React Native App Development",
+      "img": "https://i.ibb.co/JFR5qMF/reactnative.png",
+      "instructor": "Tamim Khan",
+      "price": 120,
+      "lectures": 32,
+      "duration": "16 Hours", 
+      "id": 8
+    },
+    {
+      "name": "Learn Python with projects",
+      "img": "https://i.ibb.co/kHCH9fv/python.jpg",
+      "instructor": "Zunayed Hossain",
+      "price": 160,
+      "lectures": 39,
+      "duration": "20 Hours", 
+      "id": 9
+    }
+  ]

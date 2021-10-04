@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 50px;
+}
+.mybtn{
+    border: 3px solid #28B463;
+    color: #fff;
+    background-color: #28B463;
+    padding: 10px 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    position: relative;
+    transition: 1s ease;
+    margin-bottom: 30px;
+}
+.mybtn:hover{
+    color: #28B463;
+    background-color: #fff;
+    
+}

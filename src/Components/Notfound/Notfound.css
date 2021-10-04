@@ -1,0 +1,11 @@
+.notfound{
+    height: 90vh;
+}
+.notfound h1{
+    color:  rgb(143, 64, 64);
+    font-size: 15rem;
+}
+.notfound h2{
+    
+    font-size: 2rem;
+}

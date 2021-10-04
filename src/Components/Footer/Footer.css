@@ -1,0 +1,14 @@
+.footer{
+    background-color: #202124;
+    color: seashell;
+    text-align: left;
+    padding: 10px 60px;
+}
+p a{
+    color: seashell;
+    text-decoration: none;
+    display: block;
+}
+p a:hover{
+    color: #28B463;
+}
