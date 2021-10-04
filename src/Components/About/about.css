@@ -10,6 +10,9 @@
 .content{
     margin: 20px 60px;
 }
+.content img{
+    width: 80%;
+}
 .content h2{
     font-size: 3rem;
     margin-bottom: 30px;

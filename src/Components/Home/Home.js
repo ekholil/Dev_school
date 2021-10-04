@@ -7,7 +7,7 @@ import "./Home.css";
 const Home = () => {
   const [courses, setCourses] = useState([]);
   useEffect(() => {
-    fetch("/courseData.json")
+       fetch("/courseData.json")
       .then((res) => res.json())
       .then((data) => setCourses(data));
   }, []);
@@ -22,7 +22,12 @@ const Home = () => {
         ))}
       </div>
       <button className="mybtn">
-                <NavLink style={{textDecoration:'none', color: '#fff'}} to="/courses">See All Courses</NavLink>{" "}
+        <NavLink
+          style={{ textDecoration: "none", color: "#fff" }}
+          to="/courses"
+        >
+          See All Courses
+        </NavLink>{" "}
       </button>
     </div>
   );
